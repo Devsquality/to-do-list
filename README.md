@@ -17,6 +17,7 @@ This is a simple serverless Todo List application built with TypeScript and Vite
 - **Frontend**: 
   - [Vite](https://vitejs.dev/) - A fast build tool for modern web applications.
   - [TypeScript](https://www.typescriptlang.org/) - A typed superset of JavaScript that compiles to plain JavaScript.
+  - [Supabase](https://supabase.com/) - For migration.
 
 - **Backend**: 
   - Serverless functions (e.g., AWS Lambda, Netlify Functions) for handling API requests.
