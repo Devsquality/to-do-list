@@ -35,3 +35,6 @@ This is a simple serverless Todo List application built with TypeScript and Vite
 
    ```bash
    git clone https://github.com/Devsquality/to-do-list.git
+
+## Hosted on
+- https://transcendent-fairy-a8ed1f.netlify.app/
