@@ -33,4 +33,4 @@ This is a simple serverless Todo List application built with TypeScript and Vite
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Devsquality/todo-list.git
+   git clone https://github.com/Devsquality/to-do-list.git
